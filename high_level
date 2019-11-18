@@ -1,0 +1,22 @@
+Goals
+
+1) Unsupervised data match 
+2) Match of names not addresses
+3) Give the user multiple options in terms of what one would find - that is multiple options to use for cleaning a list of names
+4) Primary source of error - typing errors  
+
+To do on high level
+
+What source of error are we trying to fight 	Typing in error 
+How are we takling the error	Build a probability model of error
+	        1) Based on probablity of error with key in center and how the other keys are likely to be hit
+	        2)  do some EDA on how the errors are generated in the first place
+	        3) Consider word2vec
+	        4) Consider building in different distance measures 
+	        
+Final model for unsupervised - what we would nead
+1) How many files would be need
+	2) What models would be used 
+	3) How would the output be created
+	
+	
