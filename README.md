@@ -6,7 +6,7 @@ There are countless hours that are spent on string matching in general and name 
 The goal of this project is to help in data cleaning using machine learning. The dream is to make it unsupervised, however, the challenges and unknowns are too many hence the goal is to make a supervised machine learning data cleaning library that would help many organizations and individuals save countless hours. 
 
 
-# Present scenario:
+** Present scenario:
 
 To the best of my knowledge, the present work in string match is based on some form of distance measure such as Euclidian or Levenshtein distance. These are good in my view when there is only one word to match with another, however, names and strings generally have more than one word and this causes an issue in using it.
 
