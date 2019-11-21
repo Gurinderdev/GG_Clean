@@ -1,2 +1,2 @@
 # GG_Clean
-Unsupervised name cleaning
+Semi-supervised Text matching
